@@ -1,3 +1,0 @@
-bleak
-python-telegram-bot
-requests
